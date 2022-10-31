@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77357772092",
+    "firebase_url": "https://cwc2019-point-table-calculator.firebaseio.com",
+    "project_id": "cwc2019-point-table-calculator",
+    "storage_bucket": "cwc2019-point-table-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77357772092:android:d908563d312d18dc",
+        "android_client_info": {
+          "package_name": "dev.kalan.cwc2019pointcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77357772092-reqb7r8cpru45n2j7uspfe3s88fhpqeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhipNVhpxr7RCcrMLxfWtz_cRFUfjOaQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77357772092-reqb7r8cpru45n2j7uspfe3s88fhpqeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
