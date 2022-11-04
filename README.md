@@ -1,16 +1,6 @@
 # cwc2019_point_simulator
 
-A new Flutter application.
+Cricket World Cup 2019 Point Simulator app made in June, 2019. This code has been written in June, 2019 and was compile against "sdk: ">=2.1.0 <3.0.0".
+The code has not been migrated to latest Flutter/Dart versions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
